@@ -1,5 +1,5 @@
 body {
-    font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
     font-size: 32px;
     line-height: 1.5;
     background: #000000;
@@ -33,24 +33,25 @@ body {
   }
   
   .slide-1 {
-    background-image: url(boyce_1.jpg);
+    background-image: url(/assets/boyce_1.jpg);
   }
   
   .slide-2 {
-    background-image: url(boyce_2.jpg);
+    background-image: url(/assets/boyce_2.jpg);
   }
   
   .slide-3 {
-    background-image: url(boyce_3.jpg);
+    background-image: url(/assets/boyce_3.jpg);
   }
   
   .slide-4 {
-    background-image: url(boyce_4.jpg);
+    background-image: url(/assets/boyce_4.jpg);
   }
   
   .slide-5 {
-    background-image: url(boyce_5.jpg);
+    background-image: url(/assets/boyce_5.jpg);
   }
+
   
   .steps {
     position: absolute;
