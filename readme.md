@@ -8,4 +8,4 @@ You can check this site [here](https://boyce-slideshow-438.superhi.com)
 <br>
 
 
-<img src="images/slideshow.png" width="480">
+<img src="images/slideshow.png" width="680">
