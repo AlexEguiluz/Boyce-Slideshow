@@ -4,6 +4,8 @@ I built this web site completely from scratch using Java Script and Jquery. This
  
 
 You can check this site [here](https://boyce-slideshow-438.superhi.com) 
+<br>
+<br>
 
 
 <img src="images/slideshow.png" width="480">
